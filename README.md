@@ -14,7 +14,7 @@ Selamat datang di repositori resmi website **BNKP Teladan**. Website ini diranca
 
 Proyek ini dibangun menggunakan stack teknologi berikut:
 
-* **Framework/Bahasa:** PHP Native / Laravel *(Sesuaikan dengan yang digunakan)*
+* **Framework/Bahasa:** PHP Native
 * **Database:** MySQL
 * **Frontend:** Bootstrap / Tailwind CSS, JavaScript (Chart.js, SweetAlert2)
 * **Tools:** Composer, NPM
