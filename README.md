@@ -1,8 +1,4 @@
-Berikut adalah draf file `README.md` yang profesional, terstruktur, dan mudah dibaca untuk repositori GitHub **bnkpteladan**.
-
----
-
-# Website Resmi BNKP Teladan
+# Website BNKP Teladan
 
 Selamat datang di repositori resmi website **BNKP Teladan**. Website ini dirancang untuk memberikan informasi seputar kegiatan gereja, jadwal ibadah, warta jemaat, serta profil organisasi secara digital dan transparan.
 
@@ -75,7 +71,7 @@ Jika Anda ingin berkontribusi dalam pengembangan website ini:
 
 ---
 
-© 2026 BNKP Teladan. Dibuat dengan penuh dedikasi untuk pelayanan.
+© 2026 Handryan. All Right Reserved.
 
 ---
 
